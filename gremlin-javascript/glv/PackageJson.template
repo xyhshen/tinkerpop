@@ -33,7 +33,10 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "ws": "^3.0.0"
+    "ws": "^3.0.0",
+    "grunt": "~1.0.2",
+    "grunt-cli": "~1.2.0",
+    "grunt-jsdoc": "~2.3.0"
   },
   "devDependencies": {
     "mocha": "~4.0.1",
